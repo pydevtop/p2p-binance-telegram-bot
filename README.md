@@ -1,16 +1,22 @@
 # Binance P2P Telegram Bot — Auto Chat, Order Tracking & Instant Crypto Release
 
-A powerful **Binance P2P bot** that lets you manage trades, reply to buyers, detect payments, and **release crypto instantly from Telegram**.
+A powerful **Binance P2P bot** built for speed and execution.
 
-Built for traders who want speed, control, and automation without constantly opening Binance.
+Manage orders, reply to buyers, detect payments, and **release crypto instantly from Telegram**.
+
+Built with **Binance P2P API**, WebSocket chat, and Telegram Bot API.
+
+> Keywords: p2p binance bot, binance p2p api, telegram binance bot, binance trading bot github, binance p2p api github, best trading bot for binance
+
+---
 
 <img 
 src="https://py-dev.top/images/p2p-binance-telegram-bot/p2p-binance-telegram-bot.png" 
 alt="Binance P2P Telegram Bot with auto chat, order tracking and instant crypto release" 
-title="Binance P2P Telegram Bot - Auto Chat and Release Crypto"
+title="Binance P2P Telegram Bot"
 />
 
-> Keywords: p2p binance bot, binance p2p api, telegram binance bot, binance trading bot github, binance p2p api github, best trading bot for binance
+Binance P2P Telegram Bot — auto chat, order tracking and instant crypto release
 
 ---
 
@@ -38,7 +44,7 @@ When a buyer marks the order as paid:
 - sends a Telegram notification  
 - shows a **💰 Release Crypto button**
 
-You can complete the deal in **one click** without opening Binance.
+You can complete the deal in **one click directly from Telegram**.
 
 ⚡ Faster release = better reputation = more completed trades
 
@@ -60,7 +66,7 @@ This bot moves everything into Telegram.
 - faster response time  
 - higher completion rate  
 - less stress  
-- better UX  
+- better workflow  
 
 ---
 
@@ -69,7 +75,7 @@ This bot moves everything into Telegram.
 - 📡 Real-time Binance P2P order tracking  
 - 💬 Binance chat → Telegram sync  
 - ✍️ Reply to Binance chat from Telegram  
-- 💰 One-click crypto release  
+- 💰 One-click **Release Crypto directly from Telegram**  
 - 🖼 Receipt / image forwarding  
 - 🔄 Order status updates  
 - 🌍 Multi-language interface  
@@ -85,7 +91,7 @@ This bot moves everything into Telegram.
 4. Message appears in Telegram  
 5. You reply from Telegram  
 6. Buyer marks payment  
-7. Bot shows payment notification  
+7. Bot detects payment instantly  
 8. You tap **💰 Release Crypto**  
 9. Order completed  
 
@@ -100,31 +106,6 @@ No need to open Binance.
 - High-volume USDT sellers  
 - Traders using Telegram as control panel  
 - Developers working with Binance P2P API  
-
----
-
-## ⚙️ Tech stack
-
-- Python  
-- Binance API  
-- Binance P2P API  
-- WebSocket (real-time chat)  
-- Telegram Bot API  
-
----
-
-## 📈 SEO keywords (for discovery)
-
-- p2p binance bot  
-- binance trade bot  
-- binance p2p api  
-- binance p2p api github  
-- binance trading bot github  
-- telegram bot for binance  
-- best trading bot for binance  
-- release crypto telegram  
-- binance p2p automation  
-- crypto trading telegram bot  
 
 ---
 
@@ -146,6 +127,31 @@ Designed for traders who care about **closing deals faster**.
 
 ---
 
+## ⚙️ Tech stack
+
+- Python  
+- Binance API  
+- Binance P2P API  
+- WebSocket (real-time chat)  
+- Telegram Bot API  
+
+---
+
+## 🔐 Access & Setup
+
+This is not a plug-and-play public bot.
+
+The repository demonstrates architecture and workflow.
+
+Access to a working setup requires:
+- proper configuration  
+- environment setup  
+- API integration  
+
+If you want a ready-to-use version or demo — contact me.
+
+---
+
 ## ❓ FAQ
 
 ### Does this bot trade automatically?
@@ -160,8 +166,23 @@ Yes — with one click.
 ### Does it support receipts?
 Yes.
 
-### Is it safe?
-Use responsibly and follow Binance rules.
+---
+
+## ⚠️ Disclaimer
+
+This is a workflow automation tool, not financial advice.  
+Always follow Binance rules and security practices.
+
+
+## 🔥 Summary
+
+Reply, track orders, and **release crypto — all from Telegram in seconds.**
+
+---
+
+## 💬 Contact / Demo
+
+If you want access, demo, or production version — contact me.
 
 ---
 

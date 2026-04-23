@@ -186,6 +186,9 @@ If you want access, demo, or production version — contact me.
 
 ---
 
+## Buy Binance P2P Telegram Bot
+https://py-dev.top/application-software/p2p-binance-telegram-bot
+
 ## Contacts
 Telegram: @morgan_sql<br>
 Telegram channel: https://t.me/pydevtop

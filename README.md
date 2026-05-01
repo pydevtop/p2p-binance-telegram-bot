@@ -1,10 +1,16 @@
-# Binance P2P Bot – Telegram Chat Automation, Order Tracking & Instant Crypto Release
+# Binance P2P Bot – Chat Automation & Instant Crypto Release
 
-A powerful **Binance P2P bot** built for fast execution, chat automation, and real-time order management.
+Binance P2P bot to track orders, reply in chat, and release crypto instantly.
+
+Fast execution. No delays. Built for real P2P traders.
+
+A powerful **P2P Binance bot** built for fast execution, chat automation, and real-time order management.
 
 This **P2P trading bot for Binance** helps you track orders, reply to buyers, detect payments, and **release crypto instantly from Telegram** without delays.
 
 Built with **Binance P2P API**, WebSocket chat, and Telegram Bot API.
+
+
 
 ---
 

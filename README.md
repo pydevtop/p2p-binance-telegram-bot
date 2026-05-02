@@ -187,6 +187,9 @@ Yes.
 
 ---
 
+## Designed for Binance P2P traders who need faster execution and better deal completion rate.
+
+
 ## ⚠️ Disclaimer
 
 This is a workflow automation tool, not financial advice.  

@@ -220,7 +220,9 @@ Telegram: @morgan_sql<br>
 
 - Binance P2P Bot https://github.com/pydevtop/binance_p2p_bot
 - P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
+- P2Pay Binance Bot https://github.com/pydevtop/p2pay-binance-bot
 - Interexchange Arbitrage Bot https://github.com/pydevtop/interexchange-arbitrage-bot
+- Binance P2P Order History Fetcher (with Full Name) https://github.com/pydevtop/binance-p2p-order-history-fetcher
 
 ## License and Usage Notice
 

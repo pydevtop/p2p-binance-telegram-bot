@@ -216,6 +216,12 @@ https://py-dev.top/application-software/p2p-binance-telegram-bot
 Telegram: @morgan_sql<br>
 
 
+## Other Projects
+
+- Binance P2P Bot https://github.com/pydevtop/binance_p2p_bot
+- P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance
+- Interexchange Arbitrage Bot https://github.com/pydevtop/interexchange-arbitrage-bot
+
 ## License and Usage Notice
 
 This project is licensed under the MIT License.

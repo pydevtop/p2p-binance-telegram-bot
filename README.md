@@ -4,6 +4,21 @@ Binance P2P bot to track orders, reply in chat, and release crypto instantly.
 
 Fast execution. No delays. Built for real P2P traders.
 
+
+## 🌍 Available Documentation
+
+| Language     | Documentation |
+| ------------ | ------------- |
+| 🇺🇸 English | README.md     |
+| 🇪🇸 Español | README_ES.md  |
+
+---
+### Spanish Documentation
+
+Looking for a Binance P2P Bot, Binance P2P Automation, Repricing Binance P2P or Competitor Tracking solution in Spanish?
+
+👉 Read the full Spanish documentation: [README_ES.md](README_ES.md)
+
 A powerful **P2P Binance bot** built for fast execution, chat automation, and real-time order management.
 
 This **P2P trading bot for Binance** helps you track orders, reply to buyers, detect payments, and **release crypto instantly from Telegram** without delays.

@@ -282,7 +282,8 @@ Resulta especialmente útil para quienes:
 
 ## 📺 Demo
 
-https://www.youtube.com/watch?v=n1lV4uz9c8c
+<a href="https://www.youtube.com/watch?v=i8U7wPX-Pmw" target="_blank"><img src="https://img.youtube.com/vi/i8U7wPX-Pmw/0.jpg" alt="Binance P2P bot" style="width:259px;height:194px;"></a>
+<a href="https://www.youtube.com/watch?v=n1lV4uz9c8c" target="_blank"><img src="https://img.youtube.com/vi/n1lV4uz9c8c/0.jpg" alt="Binance P2P bot" style="width:259px;height:194px;"></a>
 
 ---
 

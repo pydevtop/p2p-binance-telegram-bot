@@ -221,10 +221,11 @@ Reply, track orders, and complete deals — all from Telegram in seconds.
 ---
 
 ## Demo
+<a href="https://www.youtube.com/watch?v=i8U7wPX-Pmw" target="_blank"><img src="https://img.youtube.com/vi/i8U7wPX-Pmw/0.jpg" alt="Binance P2P bot" style="width:259px;height:194px;"></a>
+<a href="https://www.youtube.com/watch?v=n1lV4uz9c8c" target="_blank"><img src="https://img.youtube.com/vi/n1lV4uz9c8c/0.jpg" alt="Binance P2P bot" style="width:259px;height:194px;"></a>
 
-https://www.youtube.com/watch?v=n1lV4uz9c8c
 
-## Buy Binance P2P Telegram Bot
+## 👉 Full Description: Binance P2P Telegram Trading Bot
 https://py-dev.top/application-software/p2p-binance-telegram-bot
 
 ## 💬 Contact

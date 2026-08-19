@@ -232,7 +232,9 @@ https://py-dev.top/application-software/p2p-binance-telegram-bot
 Telegram: @morgan_sql<br>
 
 
-## Other Projects
+### Related Binance P2P Automation Tool
+
+> 📖 **API Reference:** Looking for full Binance SAPI and C2C schema specs? Check out our [Binance SAPI & C2C REST API Reference](https://github.com/pydevtop/binance-c2c-sapi-endpoints) or interactive docs on [py-dev.top/binance-api/](https://py-dev.top/binance-api/).
 
 - Binance P2P Bot https://github.com/pydevtop/binance_p2p_bot
 - P2P Trade Bot Binance https://github.com/pydevtop/p2p-trade-bot-binance

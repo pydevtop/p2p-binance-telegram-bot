@@ -30,7 +30,7 @@ Built with **Binance P2P API**, WebSocket chat, and Telegram Bot API.
 ---
 
 <img 
-src="https://py-dev.top/images/p2p-binance-telegram-bot/p2p-binance-telegram-bot.png" 
+src="https://py-dev.top/media/store/products/p2p-binance-telegram-bot/thumb_full_p2p-binance-telegram-bot.png" 
 alt="Binance P2P bot with Telegram chat automation, order tracking and instant crypto release" 
 title="Binance P2P Bot Telegram Automation"
 />

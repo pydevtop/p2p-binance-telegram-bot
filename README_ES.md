@@ -5,7 +5,12 @@ Automatiza Binance P2P con un Bot de Telegram profesional.
 Gestiona órdenes, responde mensajes, recibe notificaciones y libera criptomonedas directamente desde Telegram en cuestión de segundos.
 
 Diseñado para merchants de Binance P2P que buscan trabajar más rápido, reducir tareas manuales y mejorar el flujo de sus operaciones.
+## 🌍 Documentación disponible
 
+| Idioma | Documentación |
+|--------|---------------|
+| 🇺🇸 English | [README.md](README.md) |
+| 🇪🇸 Español (LATAM) | [README_ES.md](README_ES.md) |
 ---
 
 <img

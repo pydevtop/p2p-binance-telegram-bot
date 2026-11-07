@@ -7,10 +7,10 @@ Fast execution. No delays. Built for real P2P traders.
 
 ## 🌍 Available Documentation
 
-| Language     | Documentation |
-| ------------ | ------------- |
-| 🇺🇸 English | README.md     |
-| 🇪🇸 Español | README_ES.md  |
+| Language | Documentation |
+|----------|---------------|
+| 🇺🇸 English | [README.md](README.md) |
+| 🇪🇸 Español (LATAM) | [README_ES.md](README_ES.md) |
 
 ---
 ### Spanish Documentation

@@ -14,7 +14,7 @@ Diseñado para merchants de Binance P2P que buscan trabajar más rápido, reduci
 ---
 
 <img
-src="https://py-dev.top/images/p2p-binance-telegram-bot/p2p-binance-telegram-bot.png"
+src="https://py-dev.top/media/store/products/p2p-binance-telegram-bot/thumb_full_p2p-binance-telegram-bot.png"
 alt="Bot Binance P2P para Telegram con chat automático, seguimiento de órdenes y liberación instantánea de criptomonedas"
 title="Bot Binance P2P para Telegram"
 />
